@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+
+table{
+	height:15px;
+	width:100%;
+	
+}
+table,td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+#t12{
+	text-align:center;
+}
+#t13{
+	text-align:right
+}
